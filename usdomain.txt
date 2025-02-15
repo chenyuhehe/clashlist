@@ -1,0 +1,2 @@
+payload:
+  - '+.javdb.com'
