@@ -1,0 +1,3 @@
+payload:
+  - '+.blackjack-inc.com'
+  - '+.blackjack-local.com'
