@@ -1,3 +1,4 @@
 payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
+  - '+.hanime1.me'
