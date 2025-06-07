@@ -1,3 +1,4 @@
 payload:
   - '+.dmm.co.jp'
   - '+.mgstage.com'
+  - '+.mypikpak.com'
